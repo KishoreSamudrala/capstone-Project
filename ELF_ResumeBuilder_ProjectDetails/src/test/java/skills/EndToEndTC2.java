@@ -13,7 +13,7 @@ import pomRepository.ProjectDetailsPage;
 import pomRepository.SkillsPage;
 import pomRepository.SummaryPage;
 
-public class EndToEndTC1 extends Base_Class {
+public class EndToEndTC2 extends Base_Class {
 	@Test
 	public void endToEndResume1() throws InterruptedException {
 		ExcelUtil exceldata = new ExcelUtil();
